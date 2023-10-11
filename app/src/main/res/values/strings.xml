@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Add Name SaveData</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="add_name">Add Name</string>
+    <string name="displayName">TextView</string>
+    <string name="display_names">TextView</string>
+</resources>
